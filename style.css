@@ -9,8 +9,9 @@
 }
 
 button {
-  color: midnightblue;
-  background-color: transparent;
+  color: white;
+  background-color: 3355ff;
+  border-radius: 6px;
   border: none;
   /*background-color: 889CFF;*/
 }
@@ -18,7 +19,7 @@ button {
 
 button:hover {
   color: white;
-  background-color: 3355FF;
+  background-color: 002BFF;
 }
 
 #myParagraph {
@@ -27,11 +28,17 @@ button:hover {
 }
 
 .photos {
-  border: 1px solid black;
+  border: 1px transparent black;
   content-align: center;
   height: 200;
 }
 
 .image {
   height: 200px;
+}
+
+#photoTable {
+margin: auto;
+border-collapse: collapse;
+
 }
