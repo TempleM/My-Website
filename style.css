@@ -37,6 +37,8 @@ button:hover {
   border-top: 1px solid grey;
   border-bottom: 1px solid grey;
   text-align: bottom;
+  padding: 5px;
+  font-size: 22;
 }
 
 .photos {
