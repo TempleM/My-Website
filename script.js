@@ -11,8 +11,8 @@ document.getElementById("contactMe").addEventListener("click", function () {
   alert("My name is Temple Miles");
 });
 
-document.getElementById("myParagraph").style.textAlign = "center";
-document.getElementById("myParagraph").style.color = "midnightblue";
+/*document.getElementById("myParagraph").style.textAlign = "center";*/
+document.getElementById("myParagraph").style.color = "white";
 
 document.getElementById("sendAlert").addEventListener("click", function () {
   alert("This is an alert that be used to notify the user");
