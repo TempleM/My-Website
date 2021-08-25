@@ -23,6 +23,10 @@ button:hover {
   font-weight: bold;
 }
 
-#photos {
+.photos {
   border: 1px solid black;
+}
+
+.image {
+  height: 250px;
 }

@@ -22,3 +22,4 @@ document.getElementById("changeImage").addEventListener("click", function () {
   document.getElementById("funImage").src = "https://secure.img1-fg.wfcdn.com/im/02238154/compr-r85/8470/84707680/pokemon-pikachu-wall-decal.jpg"
 });
 
+document.getElementByID("photo1").src = "https://cdn.glitch.com/3dd3f809-d8e5-441a-ab9d-4ca413c5d577%2FIMG_4133.jpg?v=1629910932269";
