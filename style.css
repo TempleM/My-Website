@@ -10,9 +10,11 @@
 
 button {
   color: midnightblue;
-  background-color: 889CFF;
-  background-image: url("");
+  background-color: transparent;
+  border: none;
+  /*background-color: 889CFF;*/
 }
+
 
 button:hover {
   color: white;
