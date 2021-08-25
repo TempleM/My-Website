@@ -8,7 +8,7 @@ document.getElementById("thisSite").addEventListener("click", function () {
   alert("This is a website I made. Its a work in progress, so more will be added later. Right now it just has a few pictures I've taken over the past couple of years, as well as some info about me!");
 });
 document.getElementById("contactMe").addEventListener("click", function () {
-  alert("Phone #: 202-570-8029|Instagram: temple_miles1");
+  alert("Phone #: 202-570-8029|Instagram: temple_miles1|Steam: Lambknight1|Discord: Oatladd#3222|Epic Games: Oatladd");
 });
 
 /*document.getElementById("myParagraph").style.textAlign = "center";*/

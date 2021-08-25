@@ -6,8 +6,6 @@
 #buttons {
   margin: auto;
   padding: 0px;
-  border-top: 1px solid grey;
-  border-bottom: 1px solid grey;
   width: auto;
   text-align: center;
 }
@@ -73,3 +71,7 @@ body {
   background-color: black;
 }
 
+#info {
+  color: grey;
+  font-size: 10;
+}
