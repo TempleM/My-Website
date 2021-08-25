@@ -33,6 +33,10 @@ button:hover {
 #myParagraph {
   font-family: sans-serif;
   font-weight: bold;
+  height: 25px;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  text-align: bottom;
 }
 
 .photos {
@@ -63,9 +67,3 @@ body {
   background-color: black;
 }
 
-div {
-  background-color: grey;
-  height: 25px;
-  width: 100px;
-  padding: 11px
-}
