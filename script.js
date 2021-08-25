@@ -1,8 +1,14 @@
 document.getElementById("Title").innerHTML = "<h2>Temple's Website</h2>";
+document.getElementById("Title").style.textAlign = "center";
 
-
-document.getElementById("changeText").addEventListener("click", function () {
-  document.getElementById("myHeader").innerHTML = "Event Listeners are Cool!";
+document.getElementById("aboutMe").addEventListener("click", function () {
+  alert("My name is Temple Miles");
+});
+document.getElementById("thisSite").addEventListener("click", function () {
+  alert("My name is Temple Miles");
+});
+document.getElementById("contactMe").addEventListener("click", function () {
+  alert("My name is Temple Miles");
 });
 
 document.getElementById("myParagraph").style.textAlign = "center";
