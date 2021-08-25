@@ -21,8 +21,8 @@ button {
 button:hover {
   color: white;
   background-color: 002BFF;
-  outline-style: solid;
-  outline-color: blue;
+  outline-style: transparent;
+  outline-color: transparent;
   box-shadow: 0 0 0 1px blue;
   transition: 220ms all ease-in-out;
   /*border: 1px solid blue;
@@ -44,7 +44,7 @@ button:hover {
 .image:hover {
   height: 235px;
   padding:10px;
-  transition:
+  transition: 220ms all ease-in-out;
 }
 
 .image {
@@ -61,4 +61,11 @@ border-collapse: collapse;
 body {
   font-family: sans-serif;
   background-color: black;
+}
+
+div {
+  background-color: grey;
+  height: 25px;
+  width: 100px;
+  padding: 11px
 }
