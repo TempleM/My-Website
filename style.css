@@ -21,9 +21,12 @@ button {
 button:hover {
   color: white;
   background-color: 002BFF;
-  border: 2px solid blue;
+  outline-style: solid;
+    outline-color: transparent;
+    box-shadow: 0 0 0 1px blue;
+  /*border: 1px solid blue;
   transition: 220ms all ease-in-out;
-  box-shadow: 0 0 0 2px;
+  box-shadow: 0 0 0 2px;*/
 }
 
 #myParagraph {
@@ -45,4 +48,8 @@ button:hover {
 margin: auto;
 border-collapse: collapse;
 
+}
+
+body {
+  font-family: sans-serif;
 }
