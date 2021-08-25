@@ -25,3 +25,4 @@ document.getElementById("changeImage").addEventListener("click", function () {
 document.getElementById("photo1").src = "https://cdn.glitch.com/3dd3f809-d8e5-441a-ab9d-4ca413c5d577%2FIMG_4133.jpg?v=1629910932269"
 document.getElementById("photo2").src = "https://cdn.glitch.com/3dd3f809-d8e5-441a-ab9d-4ca413c5d577%2FIMG_3856.jpg?v=1629911746326"
 document.getElementById("photo3").src = "https://cdn.glitch.com/3dd3f809-d8e5-441a-ab9d-4ca413c5d577%2FIMG_4100.jpg?v=1629911912657"
+document.getElementById("noPhoto1").src = "https://cdn.glitch.com/3dd3f809-d8e5-441a-ab9d-4ca413c5d577%2FIMG_4100.jpg?v=1629911912657"
