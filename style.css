@@ -1,5 +1,6 @@
 #Title {
   font-family: sans-serif;
+  color: midnightblue;
 }
 
 #buttons {
@@ -7,6 +8,21 @@
   padding: 0px;
 }
 
+button {
+  color: midnightblue;
+  background-color: 889CFF
+}
+
 button:hover {
-  color: blue;
+  color: white;
+  background-color: 3355FF;
+}
+
+#myParagraph {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+#photos {
+  border: 1px solid black;
 }

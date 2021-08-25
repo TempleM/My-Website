@@ -12,7 +12,7 @@ document.getElementById("contactMe").addEventListener("click", function () {
 });
 
 document.getElementById("myParagraph").style.textAlign = "center";
-document.getElementById("myParagraph").style.color = "lightblue";
+document.getElementById("myParagraph").style.color = "midnightblue";
 
 document.getElementById("sendAlert").addEventListener("click", function () {
   alert("This is an alert that be used to notify the user");
