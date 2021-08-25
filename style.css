@@ -25,8 +25,10 @@ button:hover {
 
 .photos {
   border: 1px solid black;
+  content-align: center;
+  height: 250;
 }
 
 .image {
-  height: 250px;
+  height: 200px;
 }
