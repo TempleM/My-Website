@@ -47,9 +47,3 @@ document.getElementById("next").addEventListener("click", function (){
   
 });
 
-document.getElementById("test").addEventListener("click", function () {
-  document
-});
-
-
-
