@@ -2,13 +2,13 @@ document.getElementById("Title").innerHTML = "<h2>Temple's Website</h2>";
 document.getElementById("Title").style.textAlign = "center";
 
 document.getElementById("aboutMe").addEventListener("click", function () {
-  alert("My name is Temple Miles. I am 15 years old and I was born on 11/03/05. I enjoy computer programming, video games, playing the piano, photography and more!");
+  alert("My name is Temple Miles. I am 15 years old and I was born on 11/03/05. Currently I go to Phillips Exeter, and am a rising sophmore. I enjoy computer programming, video games, playing the piano, photography and more!");
 });
 document.getElementById("thisSite").addEventListener("click", function () {
-  alert("This is a website I made. Its a work in progress, so more will be added later. Right now it just has a few pictures I've taken over the past couple of years, as well as some info about me!");
+  alert("This is a website I made. Its a work in progress, so more will be added later. Right now it just has a few pictures I've taken over the past couple of years, as well as some info about me! <img src = "https://cdn.glitch.com/3dd3f809-d8e5-441a-ab9d-4ca413c5d577%2FIMG_4133.jpg?v=1629910932269">");
 });
 document.getElementById("contactMe").addEventListener("click", function () {
-  alert("Phone #: 202-570-8029|Instagram: temple_miles1|Steam: Lambknight1|Discord: Oatladd#3222|Epic Games: Oatladd");
+  alert("Phone #: 202-570-8029|Instagram: temple_miles1|School Email: tmiles@exeter.edu|Personal Email: temple.miles@icloud.com|Steam: Lambknight1|Discord: Oatladd#3222|Epic Games: Oatladd|XBox: Oatladd");
 });
 
 /*document.getElementById("myParagraph").style.textAlign = "center";*/
