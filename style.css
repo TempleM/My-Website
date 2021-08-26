@@ -13,9 +13,9 @@
 button {
   color: white;
   background-color: 3355ff;
-  border-radius: 10px;
+  border-radius: 5px;
   border: none;
-  padding: 10px;
+  padding: 5px;
   /*background-color: 889CFF;*/
 }
 
@@ -36,8 +36,8 @@ button:hover {
   font-family: sans-serif;
   font-weight: bold;
   height: 25px;
-  border-top: 1px solid grey;
-  border-bottom: 1px solid grey;
+  border-top: 0.5px solid grey;
+  border-bottom: 0.5px solid grey;
   text-align: bottom;
   padding: 5px;
   font-size: 22;
