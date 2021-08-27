@@ -1,16 +1,38 @@
 #Title {
   font-family: sans-serif;
   color: white;
+  padding-top: 1px;
 }
 
 #buttons {
-  margin: auto;
+  /*margin: auto;*/
   padding: 0px;
   width: auto;
+  height: 10px;
   text-align: center;
+  
 }
 
-button {
+.headerButton {
+  color: white;
+  background-color: 3355ff;
+  /*border-radius: 5px;*/
+  border: none;
+  padding: 15px;
+  
+  /*background-color: 889CFF;*/
+}
+
+#prev {
+  color: white;
+  background-color: 3355ff;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  /*background-color: 889CFF;*/
+}
+
+#next {
   color: white;
   background-color: 3355ff;
   border-radius: 5px;
@@ -78,9 +100,5 @@ body {
 body { 
   /*background-image: radial-gradient(at top right, transparent, black, blue); */
 
-}
-
-.top {
-  content-align: left;
 }
 

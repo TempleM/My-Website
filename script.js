@@ -1,4 +1,4 @@
-document.getElementById("Title").innerHTML = "<h2>Temple's Website</h2>";
+document.getElementById("Title").innerHTML = "<h2>TEMPLE'S WEBSITE</h2>";
 document.getElementById("Title").style.textAlign = "center";
 
 document.getElementById("aboutMe").addEventListener("click", function () {
