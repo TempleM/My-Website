@@ -2,7 +2,8 @@
   font-family: sans-serif;
   color: white;
   font-weight: bold;
-  
+  padding-top: 3px;
+  font-size: 22px;
 }
 
 #buttons {
@@ -15,12 +16,12 @@
 
 .headerButton {
   color: white;
-  background-color: 3355ff;
+  background-color: blue;
   /*border-radius: 5px;*/
   border: none;
   padding: 15px;
-  border-left: 1px solid blue;
-  font-size: 20px;
+  border-left: 1px solid 3355ff;
+  font-size: 15px;
   font-weight: thin;
   
   /*background-color: 889CFF;*/
@@ -47,7 +48,7 @@
 
 button:hover {
   color: white;
-  background-color: blue;
+  background-color: 3355ff;
   outline-style: transparent;
   outline-color: transparent;
   box-shadow: 0 0 0 1px blue;
@@ -109,7 +110,8 @@ body {
 #main div {
   width: 100%;
   height: auto;
-  background-color: 3355ff;
+  background-color: blue;
+  outline: 10px solid 3355ff;
 }
 
 #main {
@@ -119,6 +121,15 @@ body {
 
 .top {
   border-collapse: collapse;
+  padding: 0px;
+}
+#aboutMe {
+  padding: auto;
+  width: auto;
+}
+
+#auto {
+  size
 }
 
 /*<table id="buttons" class="top">
