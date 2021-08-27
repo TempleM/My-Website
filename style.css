@@ -47,14 +47,14 @@
 
 button:hover {
   color: white;
-  background-color: 002BFF;
+  background-color: blue;
   outline-style: transparent;
   outline-color: transparent;
-  box-shadow: 0 0 0 3px 002BFF;
+  box-shadow: 0 0 0 1px blue;
   transition: 220ms all ease-in-out;
   /*border: 1px solid blue;
   transition: 220ms all ease-in-out;
-  box-shadow: 0 0 0 2px;*/
+  box-shadow: 0 0 0 2px; 002BFF*/
 }
 
 #myParagraph {
@@ -93,7 +93,7 @@ border-collapse: collapse;
 body {
   font-family: sans-serif;
   background-color: black;
-  gap: ;
+  
 }
 
 #info {
@@ -115,6 +115,10 @@ body {
 #main {
   display: flex;
   flex-direction: row;
+}
+
+#hiLite hover {
+  background-color: blue;
 }
 
 /*<table id="buttons" class="top">
