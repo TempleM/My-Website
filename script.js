@@ -20,6 +20,7 @@ document.getElementById("photo2").src = "https://cdn.glitch.com/3dd3f809-d8e5-44
 document.getElementById("photo3").src = "https://cdn.glitch.com/3dd3f809-d8e5-441a-ab9d-4ca413c5d577%2FIMG_4100.jpg?v=1629911912657"
 
 document.getElementById("noPhoto1").src = "https://cdn.glitch.com/3dd3f809-d8e5-441a-ab9d-4ca413c5d577%2FIMG_3459.jpg?v=1629923103089"
+document.getElementById("prev").innerHTML = "";
 
 /*___________*/
 

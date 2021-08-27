@@ -75,7 +75,7 @@ button:hover {
 }
 
 .image:hover {
-  height: 250px;
+  height: 400px;
   padding:10px;
   transition: 220ms all ease-in-out;
 }
@@ -117,8 +117,8 @@ body {
   flex-direction: row;
 }
 
-#hiLite hover {
-  background-color: blue;
+.top {
+  border-collapse: collapse;
 }
 
 /*<table id="buttons" class="top">
