@@ -8,9 +8,9 @@
 
 #buttons {
   /*margin: auto;*/
-  padding: 0px;
-  width: auto;
+  
   text-align: center;
+  
   
 }
 
@@ -20,7 +20,7 @@
   /*border-radius: 5px;*/
   border: none;
   padding: 15px;
-  padding-top:20px;
+  border-left: 1px solid blue;
   
   
   /*background-color: 889CFF;*/
@@ -114,8 +114,6 @@ body {
 #main {
   display: flex;
   flex-direction: row;
-  justify-content: top;
-  align-items: top;
 }
 
 /*<table id="buttons" class="top">
