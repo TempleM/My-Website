@@ -50,7 +50,7 @@ button:hover {
 }
 
 .image:hover {
-  height: 235px;
+  height: 400px;
   padding:10px;
   transition: 220ms all ease-in-out;
 }
