@@ -15,7 +15,7 @@ button {
   background-color: 3355ff;
   border-radius: 5px;
   border: none;
-  padding: 5px;
+  padding: 10px;
   /*background-color: 889CFF;*/
 }
 
@@ -50,7 +50,7 @@ button:hover {
 }
 
 .image:hover {
-  height: 400px;
+  height: 250px;
   padding:10px;
   transition: 220ms all ease-in-out;
 }
@@ -63,7 +63,6 @@ button:hover {
 #photoTable {
 margin: auto;
 border-collapse: collapse;
-
 }
 
 body {
@@ -79,5 +78,9 @@ body {
 body { 
   /*background-image: radial-gradient(at top right, transparent, black, blue); */
 
+}
+
+.top {
+  content-align: left;
 }
 
