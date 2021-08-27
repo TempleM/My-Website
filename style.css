@@ -1,8 +1,9 @@
 #Title {
   font-family: sans-serif;
   color: white;
-  padding-top: 1px;
+  padding-bottom: 0px;
   font-weight: bold;
+  
 }
 
 #buttons {
@@ -19,6 +20,8 @@
   /*border-radius: 5px;*/
   border: none;
   padding: 15px;
+  padding-top:20px;
+  
   
   /*background-color: 889CFF;*/
 }
@@ -47,7 +50,7 @@ button:hover {
   background-color: 002BFF;
   outline-style: transparent;
   outline-color: transparent;
-  box-shadow: 0 0 0 1px blue;
+  box-shadow: 0 0 0 3px 002BFF;
   transition: 220ms all ease-in-out;
   /*border: 1px solid blue;
   transition: 220ms all ease-in-out;
@@ -103,13 +106,16 @@ body {
 }
 
 #main div {
-  width: auto;
-  height: 50px;
+  width: 100%;
+  height: auto;
+  background-color: 3355ff;
 }
 
 #main {
   display: flex;
   flex-direction: row;
+  justify-content: top;
+  align-items: top;
 }
 
 /*<table id="buttons" class="top">
