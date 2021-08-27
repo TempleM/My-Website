@@ -2,13 +2,13 @@
   font-family: sans-serif;
   color: white;
   padding-top: 1px;
+  font-weight: bold;
 }
 
 #buttons {
   /*margin: auto;*/
   padding: 0px;
   width: auto;
-  height: 10px;
   text-align: center;
   
 }
@@ -102,3 +102,35 @@ body {
 
 }
 
+#main div {
+  width: auto;
+  height: 50px;
+}
+
+#main {
+  display: flex;
+  flex-direction: row;
+}
+
+/*<table id="buttons" class="top">
+    <td>
+    <h2 id="Title"></h2>
+    </td>
+    <td>
+      <button id="aboutMe" class="headerButton">
+        About Me!
+    </button>
+    </td>
+    
+    <td>
+        <button id="thisSite" class="headerButton">
+      What is this Site?
+  </button>
+    </td>
+    
+    <td>
+      <button id="contactMe" class="headerButton">
+    Contact Me!
+  </button>
+    </td>
+  </table>*/
