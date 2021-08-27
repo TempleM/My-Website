@@ -1,7 +1,6 @@
 #Title {
   font-family: sans-serif;
   color: white;
-  padding-bottom: 0px;
   font-weight: bold;
   
 }
@@ -21,7 +20,8 @@
   border: none;
   padding: 15px;
   border-left: 1px solid blue;
-  
+  font-size: 20px;
+  font-weight: thin;
   
   /*background-color: 889CFF;*/
 }
@@ -93,6 +93,7 @@ border-collapse: collapse;
 body {
   font-family: sans-serif;
   background-color: black;
+  gap: ;
 }
 
 #info {
